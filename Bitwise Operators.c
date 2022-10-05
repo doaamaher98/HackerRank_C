@@ -30,7 +30,7 @@ void calculate_the_maximum(int n,int k) {
 
      }
 }
-printf("%d %d %d\n", AND,OR,XOR);
+printf("%d\n%d\n%d", AND,OR,XOR);
 }
 
 int main() {
